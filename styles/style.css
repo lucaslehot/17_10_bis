@@ -9,12 +9,15 @@ div{
 
 .bleu{
   background: #2980b9;
+  display: inline-block;
 }
 
 .blanc{
   background: white;
+  display: inline-block;
 }
 
 .rouge{
   background: #c0392b;
+  display: inline-block; 
 }
