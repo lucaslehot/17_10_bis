@@ -1,3 +1,20 @@
-*{
-  color : red;
+body{
+  background: #AAAAAA;
+}
+
+div{
+  width: 300px;
+  height: 200px;
+}
+
+.bleu{
+  background: #2980b9;
+}
+
+.blanc{
+  background: white;
+}
+
+.rouge{
+  background: #c0392b;
 }
