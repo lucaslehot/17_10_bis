@@ -2,6 +2,22 @@ body{
   background: #AAAAAA;
 }
 
+.link{
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  background: #16a085;
+  font-family: arial, sans-serif;
+  transition: all 0.2s linear;
+  border-radius: 20%;
+}
+
+.link:hover{
+  color: #16a085;
+  background: white;
+}
 div{
   width: 300px;
   height: 200px;
@@ -19,5 +35,5 @@ div{
 
 .rouge{
   background: #c0392b;
-  display: inline-block; 
+  display: inline-block;
 }
